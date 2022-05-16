@@ -1,4 +1,3 @@
-import imp
 import smtplib
 from email.message import EmailMessage
 from string import Template
