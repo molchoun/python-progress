@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\PY_learning"
+		},
+		{
+			"path": "..\\python"
+		},
+		{
+			"path": "..\\crud-python"
+		},
+		{
+			"path": "..\\jpegtopng-converter"
+		},
+		{
+			"path": "..\\watermarker"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\password-cheker"
+		}
+	],
+	"settings": {}
+}
